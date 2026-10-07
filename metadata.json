@@ -1,0 +1,6 @@
+{
+  "name": "Jobcheck - Campus Connect",
+  "description": "Campus recruitment CRM and lead management portal for colleges and university partnerships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
